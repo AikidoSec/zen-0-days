@@ -5,6 +5,7 @@ This list contains CVEs that are related to Node.js and have been successfully t
 | CVE ID         | Affected Software     | Type                |
 | -------------- | --------------------- | ------------------- |
 | CVE-2024-53900 | npm:mongoose          | JS Code Injection   |
+| CVE-2025-23084 | Node.js               | Path traversal      |
 | CVE-2025-25975 | npm:parse-git-config  | Prototype Pollution |
 | CVE-2025-25977 | npm:canvg             | Prototype Pollution |
 | CVE-2025-27152 | npm:axios             | SSRF                |
