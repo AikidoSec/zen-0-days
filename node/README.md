@@ -4,6 +4,7 @@ This list contains CVEs that are related to Node.js and have been successfully t
 
 | CVE ID         | Affected Software       | Type                |
 | -------------- | ----------------------- | ------------------- |
+| CVE-2014-3744  | npm:st ringstream       | Path Traversal      |
 | CVE-2015-1369  | npm:sequelize           | SQL Injection       |
 | CVE-2019-15597 | npm:node-dfs            | Shell Injection     |
 | CVE-2020-7687  | npm:fast-http           | Path Traversal      |
