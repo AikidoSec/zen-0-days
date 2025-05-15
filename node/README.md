@@ -9,6 +9,7 @@ This list contains CVEs that are related to Node.js and have been successfully t
 | CVE-2020-7687  | npm:fast-http           | Path Traversal      |
 | CVE-2020-8116  | npm:dot-prop            | Prototype Pollution |
 | CVE-2020-26301 | npm:ssh2                | Shell Injection     |
+| CVE-2023-31719 | npm:@frangoteam/fuxao   | SQL Injection       |
 | CVE-2024-24806 | libuv (used by Node.js) | SSRF                |
 | CVE-2024-39338 | npm:axios               | SSRF                |
 | CVE-2024-53900 | npm:mongoose            | JS Code Injection   |
