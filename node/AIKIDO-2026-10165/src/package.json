@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@aikidosec/firewall": "^1.6.20",
+    "@enspirit/elo": "0.9.5",
+    "luxon": "^3.7.2"
+  },
+  "scripts": {
+    "start": "node --test"
+  }
+}

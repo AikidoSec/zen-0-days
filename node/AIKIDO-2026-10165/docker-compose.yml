@@ -1,0 +1,4 @@
+services:
+  aikido-2026-10165:
+    build: .
+    container_name: aikido-2026-10165
