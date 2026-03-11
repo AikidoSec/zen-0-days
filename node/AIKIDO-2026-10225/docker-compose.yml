@@ -1,0 +1,14 @@
+services:
+  aikido-2026-10225:
+    build: .
+    container_name: aikido-2026-10225
+    depends_on:
+      - db
+  db:
+    container_name: mysql-db-aikido-2026-10225
+    image: mysql:8
+    environment:
+      MYSQL_ROOT_PASSWORD: mypassword
+      MYSQL_DATABASE: catsdb
+    ports:
+      - "3306:3306"

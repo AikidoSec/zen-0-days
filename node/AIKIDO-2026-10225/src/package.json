@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node --test --test-force-exit"
+  },
+  "dependencies": {
+    "@aikidosec/firewall": "^1.8.17",
+    "mysql2": "^3.16.3"
+  }
+}
